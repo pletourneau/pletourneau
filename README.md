@@ -1,6 +1,6 @@
 <div align="center" >
 <h1>Paul LeTourneau</h1>!
-  [Paul LeTourneau](https://github.com/pletourneau/pletourneau/assets/62954460/5f4bc0a4-6948-4cd9-bf9d-d6870b94a655)
+  
 
 <h2>Junior Developer | UX</h2>
 <p></p>
