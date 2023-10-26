@@ -1,5 +1,6 @@
-#Paul LeTourneau | Junior Developer | UX
-
+<div align="center" >
+<h1>Paul LeTourneau | Junior Developer | UX</h1>
+</div>
 <div align="center" >
   
   [![Linkedin: paulcletourneau](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulcletourneau/)](https://www.linkedin.com/in/paulcletourneau/) &nbsp;&nbsp;
