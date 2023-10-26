@@ -1,3 +1,7 @@
+<div align="center">
+  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/images/Paul LeTourneau Large.png)
+</div>
+
 <div align="center" >
 <h1>Paul LeTourneau</h1>!
   
