@@ -1,5 +1,6 @@
 <div align="center" >
-<h1>Paul LeTourneau | Junior Developer | UX</h1>
+<h1>Paul LeTourneau</h1>
+<h2>Junior Developer | UX</h2>
 </div>
 <div align="center" >
   
