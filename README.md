@@ -1,5 +1,12 @@
-<h3 align="center">Junior Developer/UX</h3>
+#Paul LeTourneau | Junior Developer | UX
 
+<div align="center" >
+  
+  [![Linkedin: paulcletourneau](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/paulcletourneau/)](https://https://www.linkedin.com/in/paulcletourneau/) &nbsp;&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thepaulletourneau@gmail.com?subject=Hello%20Paul!) &nbsp;&nbsp;
+  [![GitHub pletourneau](https://img.shields.io/github/followers/sethgonzales?label=follow&style=social)](https://github.com/pletourneau)
+
+</div>
 
 
 <h3 align="center">Languages and Tools:</h3>
