@@ -2,12 +2,6 @@
   <img src ="/banner.png"
 </div>
 
-<div align="center" >
-<h1>Paul LeTourneau</h1>!
-  
-
-<h2>Junior Developer | UX</h2>
-<p></p>
 </div>
 <div align="center" >
   
