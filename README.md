@@ -1,5 +1,6 @@
 <div align="center">
   ![alt text](/assets/images/Paul LeTourneau Large.png)
+  <img src ="/assets/images/banner.png"
 </div>
 
 <div align="center" >
