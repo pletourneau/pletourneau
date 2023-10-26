@@ -4,7 +4,7 @@
   
   [![Linkedin: paulcletourneau](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulcletourneau/)](https://www.linkedin.com/in/paulcletourneau/) &nbsp;&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thepaulletourneau@gmail.com?subject=Hello%20Paul!) &nbsp;&nbsp;
-  [![GitHub pletourneau](https://img.shields.io/github/followers/sethgonzales?label=follow&style=social)](https://github.com/pletourneau)
+  [![GitHub pletourneau](https://img.shields.io/github/followers/pletourneau?label=follow&style=social)](https://github.com/pletourneau)
 
 </div>
 
